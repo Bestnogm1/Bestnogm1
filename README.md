@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img alt="book" src="image/Image 11-17-22 at 3.07 PM.jpg">
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bestnogm1&theme=dark&background=000000)](https://git.io/streak-stats)
+!(http://github-readme-streak-stats.herokuapp.com?user=Bestnogm1&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- ![](https://raw.githubusercontent.com/Bestnogm1/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/bestnogm1/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg) -->
