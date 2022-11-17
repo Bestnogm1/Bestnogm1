@@ -17,7 +17,7 @@ Im a full stack software engineer based in the Washington DC area. I love progra
 As a software engineer I enjoy the process of every new challenge, & I want to make an impact through software.
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zendrias&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bestnogm1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Talking about Personal Stuffs:
 
