@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img alt="book" src="image/Image 11-17-22 at 3.07 PM.jpg">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bestnogm1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **Bestnogm1/Bestnogm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
