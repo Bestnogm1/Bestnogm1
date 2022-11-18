@@ -22,7 +22,7 @@ As a software engineer I enjoy the process of every new challenge, & I want to m
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bestnogm1&show_icons=true&theme=radical)z
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bestnogm1&show_icons=true&theme=radical)
 
 ### Talking about Personal Stuffs:
 
@@ -32,6 +32,6 @@ As a software engineer I enjoy the process of every new challenge, & I want to m
 
 💬 Ask me about anything, I am happy to help;
 
-📫 How to reach me: zenas@live.com;
+📫 How to reach me: koffiarielhessou@gmail.com;
 
-📝 [Portfolio Site.](https://www.zenaendrias.com)
+📝 [Portfolio Site.](https://www.koffiarielhessou.com)
